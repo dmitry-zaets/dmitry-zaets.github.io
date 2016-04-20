@@ -1,0 +1,6 @@
+{
+  "name": "Home of Dmitry's Projects",
+  "tagline": "",
+  "body": "### Welcome to Home of Dmitry's Projects.\r\nHere are the projects I've been working on recently:\r\n* [redux-actions-assertions](https://www.npmjs.com/package/redux-actions-assertions) - the library that adds assertions for redux actions testing.\r\n* [vagrantfile-windows-iis-mssql](https://github.com/dmitry-zaets/vagrantfile-windows-iis-mssql) - Vagrantfile for testing ASP.NET (MVC) Websites on Windows.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
