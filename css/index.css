@@ -47,26 +47,27 @@ body {
   color: #000;
 }
 
-.projects {
+.list {
   margin: 2em;
 }
 
-.project {
+.list-item {
   margin-bottom: 1em;
 }
 
-.project-link {
+.list-item-link {
   display: block;
   color: #000;
   text-decoration: none;
 }
 
-.project-title {
+.list-item-title {
   font-size: 100%;
   margin: 0 0 0.2em 0;
 }
 
-.project-description {
+.list-item-description {
   font-size: 85%;
   color: #616161;
+  margin: 0 0 0.2em 0;
 }
