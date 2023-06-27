@@ -32,11 +32,13 @@ body {
     font-size: 210%;
 }
 
-.title .link {
+.title .link,
+.subtitle .link {
     text-decoration: none;
 }
 
-.title .link:visited {
+.title .link:visited,
+.subtitle .link:visited {
     color: #000;
 }
 
